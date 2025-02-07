@@ -1,4 +1,4 @@
-# 壳豚侠学习Github
+# 蟒卡皮学习Github
 ## 课程主要内容有
 1. 课程综述
 2. 什么是Git / Github 
